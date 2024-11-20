@@ -1,0 +1,22 @@
+{
+  "name": "backend-webdev",
+  "version": "1.0.0",
+  "description": "a basic project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WilliamJin123/backend-learning.git"
+  },
+  "author": "William Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamJin123/backend-learning/issues"
+  },
+  "homepage": "https://github.com/WilliamJin123/backend-learning#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
